@@ -9,7 +9,6 @@ This is a Tkinter-based desktop application designed to help users search for Gr
 - **Virtual Greek Keyboard**: Provides a set of buttons to input Greek letters directly, including special characters.
 - **Search Filters**: Allows users to filter results by grammatical form, such as nouns, verbs, adjectives, and adverbs.
 - **Search Results Display**: Displays matched Greek words along with their full-citation forms and glosses.
-- **Custom Comments**: The app displays comments next to special character buttons, making it easier for users to understand the context of each character.
 
 ## Installation
 
