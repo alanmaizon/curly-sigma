@@ -1,4 +1,4 @@
-# Curly Sigma - Greek Translator
+# Curly Sigma - Ancient Greek
 
 This is a Tkinter-based desktop application designed to help users search for Greek words, their meanings, and grammatical forms. The app allows users to input Greek words either through a QWERTY keyboard or a virtual Greek keyboard provided in the interface. It also provides a flexible search system that handles both direct Greek input and transliterations from QWERTY input.
 
